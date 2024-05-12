@@ -1,2 +1,2 @@
-# https://school-33.github.io/project1/
-Проект
+# Проект
+https://school-33.github.io/project1/
